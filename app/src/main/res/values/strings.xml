@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">MapaxD</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="buttonText_cambiarUb">Cambiar Ubicación</string>
+    <string name="buttonText_location1">Bellas Artes</string>
+    <string name="buttonText_location2">Zocalo CDMX</string>
+    <string name="buttonText_location3">Templo Mayor</string>
+    <string name="buttonText_location4">Kiosco Morisco</string>
+    <string name="buttonText_location5">Plaza Garibaldi</string>
+    <string name="buttonText_location6">Monumento Revolucion</string>
+    <string name="buttonText_location7">Monumento Independencia</string>
+    <string name="buttonText_location8">Castillo Chapultepec</string>
+</resources>
